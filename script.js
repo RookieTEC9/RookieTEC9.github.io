@@ -10,7 +10,7 @@ document.getElementById("nav01").innerHTML =
 "<li><a href='EnderPlugin.html'>Plugin</a><li>" +
 "<li><a href='https://github.com/RookieTEC9'>GitHub</a>" +
 "<li><a href='https://bukkit.org/members/theendercrafter9.91183076/'>Bukkit</a>" +
-"<li><a href='http://gaming.stackexchange.com/users/125383/rookietec9'>Arqade</a> +"
-"<li><a href='https://discord.gg/yF2b27g'>Discord help</a>  +"
+"<li><a href='http://gaming.stackexchange.com/users/125383/rookietec9'>Arqade</a>" +
+"<li><a href='https://discord.gg/yF2b27g'>Discord help</a> " +
 "<li><a href='https://www.youtube.com/channel/UCPchALhSeAHEneiojMnNYEg/videos?view=0&sort=p&flow=grid'>My old YT Channel</a>"
 "</ul>"
