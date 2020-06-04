@@ -44,8 +44,7 @@
         <a href="todo.html" class="w3-bar-item w3-button" style="width:25%">ALTERNATIVE/a>
         <a href="media.html" class="w3-bar-item w3-button" style="width:25%">RNB</a>
       </div>
-    </div>
-
+    </div>	    
     <div class="w3-padding-large" id="main">
       <header class="w3-container w3-center" id="home">
 	      <h1 class="w3-jumbo"><a href="https://grabify.link/6Q854R">OK SHAWTY</a></h1>
@@ -55,5 +54,12 @@
       </div>
   </div>
 </div>
+	<script type="application/javascript">
+  function getIP(json) {
+    document.write("My public IP address is: ", json.ip);
+  }
+</script>
+	    
+<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
   </body>
 </html>
