@@ -3738,6 +3738,12 @@
 				text-decoration: none;
 			}
 
+			#header > .logo u {
+				font-size: 1.25em;
+				color: #FFF;
+				text-decoration: none;				
+			}
+
 				#header > .logo a:hover {
 					color: rgba(255, 255, 255, 0.65);
 				}
