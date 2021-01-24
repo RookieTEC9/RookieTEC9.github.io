@@ -1,2 +1,0 @@
-# ProposedHackathonSite2021
- 
